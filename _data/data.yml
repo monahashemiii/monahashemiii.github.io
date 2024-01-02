@@ -127,14 +127,13 @@ certifications:
       list:
         - name: Research Funding
           start: 2023
-          end: now
+          end: 2024
           organization: National University of Singapore
           #credentialid: 111-222
           #credentialurl: www.google.com
           #credentialname: Google
           details: |
             Research Funding to study as a Ph.D. researcher
-
             School of Computing, National University of Singapore, Singapore
         - name: Research Scholarship
           start: 2019
@@ -145,7 +144,6 @@ certifications:
           #credentialname: Github
           details: |
             Granted to only two students
-
             Department of Electrical and Computer Engineering, University of Tehran, Iran
             
 projects:
