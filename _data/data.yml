@@ -137,12 +137,30 @@ certifications:
         - name: Research Scholarship
           start: 2019
           end: 2021
-          organization: Ministry of Science, Research, and Technology
+          organization: Ministry of Science, Research, and Technology, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
           #credentialname: Github
           details: |
             Granted to only two students, Department of Electrical and Computer Engineering, University of Tehran, Iran
+        - name: Ranked 5th
+          start: 2014
+          end: 2016
+          organization: Computer Engineering Department, Sharif University of Technology, Tehran, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+            among all M.Sc. students (in Computer Architecture)
+        - name: Ranked 6th
+          start: 2014
+          end: 2016
+          organization: Nationwide University Entrance Exam for Graduate Students in Computer Engineering, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+            among more than 4000 applicants
             
 projects:
     title: Projects
