@@ -168,8 +168,26 @@ certifications:
           #credentialid: 111-222
           #credentialurl: www.github.com
           #credentialname: Github
-          details: |             
-            
+          details: |      
+          
+        - name: Top 0.5% among more than 150000 applicants
+          start: 2008
+          #end: 
+          organization: Nationwide University Entrance Exam for Undergraduate Students in Mathematics, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |  
+
+        - name: Ranked 1st among all the students in high school
+          start: 2012
+          #end: 
+          #organization: Computer Engineering Department, K.N.T.U University of Technology, Tehran, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |  
+          
 projects:
     title: Projects
     intro: >
