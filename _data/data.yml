@@ -63,7 +63,13 @@ education:
         university: University of Tehran
         time: 2017 - now
         details: |
-        test.
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
             - Supervisor: Dr. Siamak Mohammadi
             - SThesis Title: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking
       - degree: MSc in Computer Engineering
