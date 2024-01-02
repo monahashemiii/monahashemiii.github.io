@@ -74,7 +74,7 @@ education:
         details: |
           Major: Computer Architecture
             - Supervisor: Dr. Shaahin Hessabi
-            - SThesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
+            - Thesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
       - degree: BSc in Computer Engineering
         university: K.N.T.U University of Technology, Iran
         time: 2008 - 2012
@@ -134,6 +134,7 @@ certifications:
           #credentialname: Google
           details: |
             Research Funding to study as a Ph.D. researcher
+            
             School of Computing, National University of Singapore, SG
 
 projects:
