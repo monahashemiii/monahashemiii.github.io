@@ -63,21 +63,21 @@ education:
         university: University of Tehran
         time: 2017 - now
         details: |
-        test
+        test.
             - Supervisor: Dr. Siamak Mohammadi
             - SThesis Title: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking
       - degree: MSc in Computer Engineering
         university: Sharif University of Technology
         time: 2014 - 2016
         details: |
-        test
+        test.
             - Supervisor: Dr. Shaahin Hessabi
             - SThesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
       - degree: BSc in Computer Engineering
         university: K.N.T.U University of Technology
         time: 2008 - 2012
         details: |
-        test
+        test.
             - Supervisor: Dr. Amir Mousavinia
             - Thesis Title: Design and implementation of a heliostat system based on a solar tracker
 
