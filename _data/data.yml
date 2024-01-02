@@ -82,32 +82,14 @@ education:
           Major: Computer Hardware 
             - Supervisor: Dr. Amir Mousavinia
             - Thesis Title: Design and implementation of a heliostat system based on a solar tracker
-
-experiences:
-    title: Academic Experiences
-    info:
-      - role: Visiting Researcher
-        time: 2023 - now
-        company: National University of Singapore
-
-      - role: Invited Teacher (Lecturer)
-        time: 2021 - 2021
-        company: University of Tehran
-        details: |
-          Course: 
-            - Microprocessor and Assembly Language, Undergraduate Course, 1 Semester
-            
-      - role: Teaching Assistant
-        time: 2015 - 2016
-        company: Sharif University of Technology
-        details: |
-          Courses: 
-            - Digital Electronics, Undergraduate Course, 1 Semester
-            - VLSI Design, Undergraduate Course, 1 Semester
             
 experiences:
     title: Experiences
     info:
+      - role: Visiting Researcher
+        time: 2023 - now
+        company: National University of Singapore
+    
       - role: Teaching Assistant
         time: 2019 - 2022
         company: University of Tehran
