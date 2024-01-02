@@ -62,12 +62,6 @@ education:
       - degree: Ph.D. in Computer Engineering
         university: University of Tehran
         time: 2017 - now
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
             - Bullet point
             - Bullet point
             - Supervisor: Dr. Siamak Mohammadi
@@ -75,15 +69,11 @@ education:
       - degree: MSc in Computer Engineering
         university: Sharif University of Technology
         time: 2014 - 2016
-        details: |
-        test.
             - Supervisor: Dr. Shaahin Hessabi
             - SThesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
       - degree: BSc in Computer Engineering
         university: K.N.T.U University of Technology
         time: 2008 - 2012
-        details: |
-        test.
             - Supervisor: Dr. Amir Mousavinia
             - Thesis Title: Design and implementation of a heliostat system based on a solar tracker
 
