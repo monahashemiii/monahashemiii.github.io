@@ -64,6 +64,8 @@ education:
         time: 2017 - now
             - Bullet point
             - Bullet point
+        details: |
+          Major: Computer Architecture
             - Supervisor: Dr. Siamak Mohammadi
             - SThesis Title: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking
       - degree: MSc in Computer Engineering
