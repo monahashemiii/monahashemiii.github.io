@@ -9,7 +9,9 @@ sidebar:
 
     # Profile information
     name: Mona Hashemi
-    tagline: Ph.D. Candidate at University of Tehran, Visiting Researcher at National University of Singapore
+    tagline: Ph.D. Candidate at University of Tehran, 
+    
+    Visiting Researcher at National University of Singapore
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,12 +54,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently, I am in the final stages of completing my Ph.D. at the University of Tehran. 
+      My doctoral dissertation is focused on "Hardware Security and Design for Anti-Counterfeit: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking".
+      I am continuing my Ph.D. studies as a research scholar at CompArch group at the National University of Singapore (NUS).
+      
 education:
     title: Education
     info:
@@ -65,24 +65,14 @@ education:
         university: Sharif University of Technology
         time: 2014 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Supervisor: Dr. Shaahin Hessabi
+            - SThesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
       - degree: BSc in Computer Engineering
         university: K.N.T.U University of Technology
         time: 2008 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Supervisor: Dr. Amir Mousavinia
+            - Thesis Title: Design and implementation of a heliostat system based on a solar tracker
 
 experiences:
     title: Experiences
