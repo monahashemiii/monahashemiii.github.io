@@ -127,16 +127,16 @@ certifications:
       list:
         - name: Research Funding
           start: 2023
-          end: 2024
+          #end: 2024
           organization: School of Computing, National University of Singapore, Singapore
           #credentialid: 111-222
           #credentialurl: www.google.com
           #credentialname: Google
           details: |
              
-        - name: Research Scholarship (Granted to only two students, Department of Electrical and Computer Engineering, University of Tehran)
+        - name: Research Scholarship (Granted to only two students) #, Department of Electrical and Computer Engineering, University of Tehran)
           start: 2019
-          end: 2021
+          #end: 2021
           organization: Ministry of Science, Research, and Technology, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
@@ -144,8 +144,8 @@ certifications:
           details: |
              
         - name: Ranked 5th among all M.Sc. students (in Computer Architecture)
-          start: 2014
-          end: 2016
+          start: 2016
+          #end: 2016
           organization: Computer Engineering Department, Sharif University of Technology, Tehran, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
@@ -154,7 +154,7 @@ certifications:
              
         - name: Ranked 6th among more than 4000 applicants
           start: 2014
-          end: 2016
+          #end: 2016
           organization: Nationwide University Entrance Exam for Graduate Students in Computer Engineering, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
