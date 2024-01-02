@@ -54,6 +54,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+    test
       Currently, I am in the final stages of completing my Ph.D. at the University of Tehran. 
       My doctoral dissertation is focused on "Hardware Security and Design for Anti-Counterfeit: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking".
       I am continuing my Ph.D. studies as a research scholar at CompArch group at the National University of Singapore (NUS).
@@ -65,18 +66,21 @@ education:
         university: University of Tehran
         time: 2017 - now
         details: |
+        test
             - Supervisor: Dr. Siamak Mohammadi
             - SThesis Title: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking
       - degree: MSc in Computer Engineering
         university: Sharif University of Technology
         time: 2014 - 2016
         details: |
+        test
             - Supervisor: Dr. Shaahin Hessabi
             - SThesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
       - degree: BSc in Computer Engineering
         university: K.N.T.U University of Technology
         time: 2008 - 2012
         details: |
+        test
             - Supervisor: Dr. Amir Mousavinia
             - Thesis Title: Design and implementation of a heliostat system based on a solar tracker
 
