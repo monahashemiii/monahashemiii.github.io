@@ -125,7 +125,7 @@ experiences:
 certifications:
       title: HONORS
       list:
-        - name: Research Funding
+        - name: Research Funding to study as a Ph.D. researcher
           start: 2023
           end: 2024
           organization: School of Computing, National University of Singapore, Singapore
@@ -133,7 +133,7 @@ certifications:
           #credentialurl: www.google.com
           #credentialname: Google
           details: |
-            Research Funding to study as a Ph.D. researcher
+             
         - name: Research Scholarship
           start: 2019
           end: 2021
