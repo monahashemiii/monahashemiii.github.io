@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Mona Hashemi
-    tagline: Ph.D. Candidate at University of Tehran \n Visiting Researcher at National University of Singapore
+    tagline: Ph.D. Candidate at University of Tehran | Visiting Researcher at National University of Singapore
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: 18590616/mona # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    website: scholar.google.com/citations?user=O56sNyEAAAAJ&hl=en #do not add http://    
+    #website: scholar.google.com/citations?user=O56sNyEAAAAJ&hl=en #do not add http://    
     pdf: https://www.dropbox.com/scl/fi/5yyruav4vatv181jb02ol/MonaHashemi-CV.pdf?rlkey=trw4ik87rez8krjeonbd5iz3y&dl=0
 
     languages:
