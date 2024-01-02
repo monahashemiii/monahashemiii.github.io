@@ -15,9 +15,8 @@ sidebar:
     # Sidebar links
     email: hashemi.mona@ut.ac.ir
     # phone: 012 345 6789
-    timezone: Singapore/UTC +8
+    timezone: Singapore (UTC +8)
     citizenship: Iran
-    website: scholar.google.com/citations?user=O56sNyEAAAAJ&hl=en #do not add http://
     linkedin: monahashemi
     #scholar: https://github.com/monahashemiii#:~:text=https%3A//scholar.google.com/citations%3Fuser%3DO56sNyEAAAAJ%26hl%3Den
     # xing: alandoe
@@ -29,6 +28,7 @@ sidebar:
     stack-overflow: 18590616/mona # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    website: scholar.google.com/citations?user=O56sNyEAAAAJ&hl=en #do not add http://    
     pdf: https://www.dropbox.com/scl/fi/5yyruav4vatv181jb02ol/MonaHashemi-CV.pdf?rlkey=trw4ik87rez8krjeonbd5iz3y&dl=0
 
     languages:
