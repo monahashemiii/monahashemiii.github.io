@@ -123,52 +123,45 @@ experiences:
             - VLSI Design, Undergraduate Course, 1 Semester
             
 certifications:
-      title: HONORS AND SPECIAL RECOGNITIONS
+      title: Certifications
       list:
-        - name: Research Funding
-          start: 2023
-          end: now
-          organization: National University of Singapore,
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          #credentialname: Google
-          details: |
-            Research Funding to study as a Ph.D. researcher
-            
-            School of Computing, National University of Singapore, Singapore
-        - name: Research Scholarship
-          start: 2019
+        - name: CV Builder
+          start: 2020
           end: 2021
-          organization: Ministry of Science, Research, and Technology
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          #credentialname: Google
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            Granted to only two students
-            
-            Department of Electrical and Computer Engineering, University of Tehran, Iran
-        - name: Ranked 5th
-          start: 2014
-          end: 2016
-          organization: Sharif University of Technology
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          #credentialname: Google
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
           details: |
-            among all M.Sc. students (in Computer Architecture)
-            
-            Computer Engineering Department, Sharif University of Technology, Tehran, Iran
-         - name: Ranked 6th
-          start: 2014
-          end: 2016
-          organization: Sharif University of Technology
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          #credentialname: Google
-          details: |
-            among more than 4000 applicants
-            
-            Nationwide University Entrance Exam for Graduate Students in Computer Engineering, Iran
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
             
 projects:
     title: Projects
