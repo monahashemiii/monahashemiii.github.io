@@ -135,8 +135,44 @@ certifications:
           details: |
             Research Funding to study as a Ph.D. researcher
             
-            School of Computing, National University of Singapore, SG
+            School of Computing, National University of Singapore, Singapore
+            
+        - name: Research Scholarship
+          start: 2019
+          end: 2021
+          organization: Ministry of Science, Research, and Technology
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          details: |
+            Granted to only two students
+            
+            Department of Electrical and Computer Engineering, University of Tehran, Iran
 
+        - name: Ranked 5th
+          start: 2014
+          end: 2016
+          organization: Sharif University of Technology
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          details: |
+            among all M.Sc. students (in Computer Architecture)
+            
+            Computer Engineering Department, Sharif University of Technology, Tehran, Iran
+
+         - name: Ranked 6th
+          start: 2014
+          #end: 2016
+          organization: Sharif University of Technology
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          details: |
+            among more than 4000 applicants
+            
+            Nationwide University Entrance Exam for Graduate Students in Computer Engineering, Iran
+            
 projects:
     title: Projects
     intro: >
