@@ -125,7 +125,7 @@ experiences:
 certifications:
       title: HONORS
       list:
-        - name: Research Funding to study as a Ph.D. researcher
+        - name: Research Funding
           start: 2023
           end: 2024
           organization: School of Computing, National University of Singapore, Singapore
@@ -134,7 +134,7 @@ certifications:
           #credentialname: Google
           details: |
              
-        - name: Research Scholarship
+        - name: Research Scholarship (Granted to only two students, Department of Electrical and Computer Engineering, University of Tehran)
           start: 2019
           end: 2021
           organization: Ministry of Science, Research, and Technology, Iran
@@ -142,8 +142,8 @@ certifications:
           #credentialurl: www.github.com
           #credentialname: Github
           details: |
-            Granted to only two students, Department of Electrical and Computer Engineering, University of Tehran, Iran
-        - name: Ranked 5th
+             
+        - name: Ranked 5th among all M.Sc. students (in Computer Architecture)
           start: 2014
           end: 2016
           organization: Computer Engineering Department, Sharif University of Technology, Tehran, Iran
@@ -151,8 +151,8 @@ certifications:
           #credentialurl: www.github.com
           #credentialname: Github
           details: |
-            among all M.Sc. students (in Computer Architecture)
-        - name: Ranked 6th
+             
+        - name: Ranked 6th among more than 4000 applicants
           start: 2014
           end: 2016
           organization: Nationwide University Entrance Exam for Graduate Students in Computer Engineering, Iran
@@ -160,7 +160,7 @@ certifications:
           #credentialurl: www.github.com
           #credentialname: Github
           details: |
-            among more than 4000 applicants
+             
             
 projects:
     title: Projects
