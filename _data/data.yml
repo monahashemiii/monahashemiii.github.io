@@ -160,7 +160,15 @@ certifications:
           #credentialurl: www.github.com
           #credentialname: Github
           details: |
-             
+          
+        - name: Ranked 6th among all B.Sc. students
+          start: 2012
+          #end: 
+          organization: Computer Engineering Department, K.N.T.U University of Technology, Tehran, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |             
             
 projects:
     title: Projects
