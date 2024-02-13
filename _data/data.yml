@@ -137,7 +137,7 @@ certifications:
         - name: Research Scholarship (Granted to only two students) #, Department of Electrical and Computer Engineering, University of Tehran)
           start: 2019
           #end: 2021
-          organization: Ministry of Science, Research, and Technology, Iran
+          organization: Department of Electrical and Computer Engineering, University of Tehran # Ministry of Science, Research, and Technology, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
           #credentialname: Github
