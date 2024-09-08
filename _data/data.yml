@@ -48,6 +48,8 @@ sidebar:
       info:
         - item: Secure Hardware Architectures
         - item: Hardware Security Verification
+        - item: Hardware Counterfeiting
+        - item: Security-Aware Custom Computing
           link:
 
 career-profile:
