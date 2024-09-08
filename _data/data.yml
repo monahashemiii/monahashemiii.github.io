@@ -223,8 +223,24 @@ certifications:
 #        authors: Donald E. Knuth
 #       conference: Addison-Wesley, 1968
 
-#skills:
-#    title: Skills &amp; Proficiency
+skills:
+    title: Skills
+
+    toolset:
+      - name: VHDL, VerilogHDL, SystemVerilog, Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
+        level: 95%
+      - name: C, C++, Microsoft Visual Studio pack (VC#, VC++) 
+        level: 95%
+      - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE), Cadence (SoC/IC Encounter), CodeVisionAVR, Altium Designer (PCB), MaxPlus, Tanner Tools Pro (L-edit)
+        level: 90%         
+      - name: X86 Assembly
+        level: 90% 
+      - name: SQL, Oracle, Git and Version Control, MATLAB (M-file, GUI)
+        level: 80%
+      - name: Java
+        level: 80%
+      - name: Scala
+        level: 50%  
 
 #    toolset:
 #      - name: Python & Django
