@@ -52,7 +52,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently, I am in the final stages of completing my Ph.D. at the University of Tehran.       
+      Currently, I am in the final stages of completing my Ph.D. at the University of Tehran. 
+      
+      My doctoral dissertation is focused on "Hardware Security and Design for Anti-Counterfeit: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking".
+      
       I am continuing my Ph.D. studies as a research scholar at CompArch group at the National University of Singapore (NUS).
       
 education:
@@ -60,7 +63,7 @@ education:
     info:
       - degree: PhD in Computer Engineering
         university: University of Tehran, Iran
-        time: 2017 - 2024
+        time: 2017 - now
         details: |
           Major: Computer Architecture
             - Supervisor: Dr. Siamak Mohammadi
@@ -83,12 +86,8 @@ education:
 experiences:
     title: Academic Experience
     info:
-      - role: Research Assistant
-        time: 2017 - now
-        company: University of Tehran, Iran
-        
       - role: Visiting Researcher
-        time: 2023 - 2024
+        time: 2023 - now
         company: National University of Singapore, Singapore
 
       - role: Remote Researcher
@@ -122,13 +121,9 @@ experiences:
           Courses: 
             - Digital Electronics, Undergraduate Course, 1 Semester
             - VLSI Design, Undergraduate Course, 1 Semester
-            
-      - role: Research Assistant
-        time: 2014 - 2017
-        company: Sharif University of Technology, Iran
       
 certifications:
-      title: HONORS AND SPECIAL RECOGNITIONS
+      title: HONORS
       list:
         - name: Research Funding
           start: 2023
@@ -142,7 +137,7 @@ certifications:
         - name: Research Scholarship (Granted to only two students) #, Department of Electrical and Computer Engineering, University of Tehran)
           start: 2019
           #end: 2021
-          organization: Department of Electrical and Computer Engineering, University of Tehran # Ministry of Science, Research, and Technology, Iran
+          organization: Ministry of Science, Research, and Technology, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
           #credentialname: Github
@@ -216,36 +211,24 @@ certifications:
 #        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-       conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
 
-skills:
-    title: Skills
+#skills:
+#    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: VHDL, VerilogHDL, SystemVerilog, Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
-        level: 95%
-      - name: C, C++, Microsoft Visual Studio pack (VC#, VC++) 
-        level: 95%
-      - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE), Cadence (SoC/IC Encounter), CodeVisionAVR, Altium Designer (PCB), MaxPlus, Tanner Tools Pro (L-edit)
-        level: 90%         
-      - name: X86 Assembly
-        level: 90% 
-      - name: SQL, Oracle, Git and Version Control, MATLAB (M-file, GUI)
-        level: 80%
-      - name: Java
-        level: 80%
-      - name: Scala
-        level: 50%  
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
 
 footer: >
     2024
