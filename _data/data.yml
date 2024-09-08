@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: hashemi.mona@ut.ac.ir
     # phone: 012 345 6789
-    timezone: Singapore (UTC +8)
+    timezone: Tehran (UTC +3:30)
     citizenship: Iran
     linkedin: monahashemi
     #scholar: https://github.com/monahashemiii#:~:text=https%3A//scholar.google.com/citations%3Fuser%3DO56sNyEAAAAJ%26hl%3Den
@@ -46,7 +46,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Secure Hardware Architectures
+        - item: Hardware Security Verification
+        - item: Hardware Counterfeiting
+        - item: Security-Aware Custom Computing
           link:
 
 career-profile:
@@ -123,7 +126,7 @@ experiences:
             - VLSI Design, Undergraduate Course, 1 Semester
       
 certifications:
-      title: HONORS
+      title: HONORS AND SPECIAL RECOGNITIONS
       list:
         - name: Research Funding
           start: 2023
@@ -223,12 +226,30 @@ certifications:
 #        authors: Donald E. Knuth
 #       conference: Addison-Wesley, 1968
 
-#skills:
-#    title: Skills &amp; Proficiency
+skills:
+    title: Skills
 
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
+    toolset:
+      - name: VHDL, VerilogHDL, SystemVerilog
+        level: 95%
+      - name: Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
+        level: 95%
+      - name: C, C++, Microsoft Visual Studio pack (VC#, VC++) 
+        level: 90%
+      - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE)
+        level: 90%         
+      - name:  Cadence (SoC/IC Encounter)
+        level: 80% 
+      - name:  CodeVisionAVR, Altium Designer (PCB), MaxPlus
+        level: 70% 
+      - name: X86 Assembly
+        level: 70% 
+      - name: SQL, Oracle
+        level: 70%
+      - name: MATLAB (M-file, GUI)
+        level: 60%
+      - name: Java
+        level: 50% 
 
 footer: >
     2024
