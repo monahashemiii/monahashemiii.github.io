@@ -211,17 +211,17 @@ certifications:
 #        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#       conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches
+        link: "#"
+        authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
+       conference: IEEE Embedded Systems Letters, 2024
 
 skills:
     title: Skills
@@ -232,25 +232,21 @@ skills:
       - name: Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
         level: 95%
       - name: C, C++, Microsoft Visual Studio pack (VC#, VC++) 
-        level: 95%
+        level: 90%
       - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE)
         level: 90%         
       - name:  Cadence (SoC/IC Encounter)
-        level: 90% 
-      - name:  CodeVisionAVR, Altium Designer (PCB), MaxPlus, Tanner Tools Pro (L-edit)
-        level: 90% 
+        level: 80% 
+      - name:  CodeVisionAVR, Altium Designer (PCB), MaxPlus
+        level: 70% 
       - name: X86 Assembly
-        level: 90% 
+        level: 70% 
       - name: SQL, Oracle
-        level: 80%
-      - name: MATLAB (M-file, GUI)
         level: 70%
+      - name: MATLAB (M-file, GUI)
+        level: 60%
       - name: Java
-        level: 60% 
-
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
+        level: 50% 
 
 footer: >
     2024
