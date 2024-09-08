@@ -227,20 +227,26 @@ skills:
     title: Skills
 
     toolset:
-      - name: VHDL, VerilogHDL, SystemVerilog, Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
+      - name: VHDL, VerilogHDL, SystemVerilog
+        level: 95%
+      - name: Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
         level: 95%
       - name: C, C++, Microsoft Visual Studio pack (VC#, VC++) 
         level: 95%
-      - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE), Cadence (SoC/IC Encounter), CodeVisionAVR, Altium Designer (PCB), MaxPlus, Tanner Tools Pro (L-edit)
+      - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE)
         level: 90%         
+      - name:  Cadence (SoC/IC Encounter)
+        level: 90% 
+      - name:  CodeVisionAVR, Altium Designer (PCB), MaxPlus, Tanner Tools Pro (L-edit)
+        level: 90% 
       - name: X86 Assembly
         level: 90% 
-      - name: SQL, Oracle, Git and Version Control, MATLAB (M-file, GUI)
+      - name: SQL, Oracle
         level: 80%
+      - name: MATLAB (M-file, GUI)
+        level: 70%
       - name: Java
-        level: 80%
-      - name: Scala
-        level: 50%  
+        level: 60% 
 
 #    toolset:
 #      - name: Python & Django
