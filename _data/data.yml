@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: hashemi.mona@ut.ac.ir
     # phone: 012 345 6789
-    timezone: Singapore (UTC +8)
+    timezone: Tehran (UTC +3:30)
     citizenship: Iran
     linkedin: monahashemi
     #scholar: https://github.com/monahashemiii#:~:text=https%3A//scholar.google.com/citations%3Fuser%3DO56sNyEAAAAJ%26hl%3Den
@@ -46,7 +46,8 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Secure Hardware Architectures
+        -item: Hardware Counterfeiting
           link:
 
 career-profile:
@@ -211,22 +212,22 @@ certifications:
 #        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches
-        #link: "#"
-        authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
-       conference: IEEE Embedded Systems Letters, 2024
-    papers:
-      - title: FAST-GO: Fast, Accurate, and Scalable Hardware Trojan Detection using Graph Convolutional Networks
-        #link: "#"
-        authors: A. Imangholi*, M. Hashemi*, A.Momeni, S. Mohammadi, and T.E. Carlson
-       conference: 2024 International Symposium on Quality Electronic Design (ISQED), 2024
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches
+#        #link: "#"
+#        authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
+#       conference: IEEE Embedded Systems Letters, 2024
+#    papers:
+#      - title: FAST-GO: Fast, Accurate, and Scalable Hardware Trojan Detection using Graph Convolutional Networks
+#        #link: "#"
+#        authors: A. Imangholi*, M. Hashemi*, A.Momeni, S. Mohammadi, and T.E. Carlson
+#       conference: 2024 International Symposium on Quality Electronic Design (ISQED), 2024
 
 skills:
     title: Skills
