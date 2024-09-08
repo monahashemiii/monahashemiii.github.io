@@ -102,7 +102,7 @@ experiences:
       - role: Teaching Assistant
         time: 2019 - 2022
         company: University of Tehran, Iran
-        # details: |
+        details: |
           Courses: 
             - Hardware Security and Trust, Postgraduate Course, 3 Semesters
             - Functional Verification, Postgraduate Course, 3 Semesters
