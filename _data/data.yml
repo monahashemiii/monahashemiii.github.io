@@ -60,7 +60,7 @@ education:
     info:
       - degree: PhD in Computer Engineering
         university: University of Tehran, Iran
-        time: 2017 - now
+        time: 2017 - 2024
         details: |
           Major: Computer Architecture
             - Supervisor: Dr. Siamak Mohammadi
@@ -122,6 +122,10 @@ experiences:
           Courses: 
             - Digital Electronics, Undergraduate Course, 1 Semester
             - VLSI Design, Undergraduate Course, 1 Semester
+            
+      - role: Research Assistant
+        time: 2014 - 2017
+        company: Sharif University of Technology, Iran
       
 certifications:
       title: HONORS AND SPECIAL RECOGNITIONS
