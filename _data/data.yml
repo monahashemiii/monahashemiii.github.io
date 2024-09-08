@@ -83,8 +83,12 @@ education:
 experiences:
     title: Academic Experience
     info:
+      - role: Research Assistant
+        time: 2017 - now
+        company: University of Tehran, Iran
+        
       - role: Visiting Researcher
-        time: 2023 - now
+        time: 2023 - 2024
         company: National University of Singapore, Singapore
 
       - role: Remote Researcher
@@ -98,7 +102,7 @@ experiences:
       - role: Teaching Assistant
         time: 2019 - 2022
         company: University of Tehran, Iran
-        details: |
+        # details: |
           Courses: 
             - Hardware Security and Trust, Postgraduate Course, 3 Semesters
             - Functional Verification, Postgraduate Course, 3 Semesters
