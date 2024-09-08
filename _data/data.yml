@@ -47,7 +47,6 @@ sidebar:
       title: Interests
       info:
         - item: Secure Hardware Architectures
-        -item: Hardware Counterfeiting
           link:
 
 career-profile:
@@ -124,7 +123,7 @@ experiences:
             - VLSI Design, Undergraduate Course, 1 Semester
       
 certifications:
-      title: HONORS
+      title: HONORS AND SPECIAL RECOGNITIONS
       list:
         - name: Research Funding
           start: 2023
@@ -219,15 +218,10 @@ certifications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
 #    papers:
-#      - title: LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches
-#        #link: "#"
-#        authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
-#       conference: IEEE Embedded Systems Letters, 2024
-#    papers:
-#      - title: FAST-GO: Fast, Accurate, and Scalable Hardware Trojan Detection using Graph Convolutional Networks
-#        #link: "#"
-#        authors: A. Imangholi*, M. Hashemi*, A.Momeni, S. Mohammadi, and T.E. Carlson
-#       conference: 2024 International Symposium on Quality Electronic Design (ISQED), 2024
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
 
 skills:
     title: Skills
