@@ -221,10 +221,10 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      - title: "LOTUS A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches"
+      - title: "LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches"
       #  link: "#"
         authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
-      # conference: Addison-Wesley, 1968
+        conference: IEEE Embedded Systems Letters, 2024
 
 skills:
     title: Skills
