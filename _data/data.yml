@@ -220,7 +220,7 @@ publications:
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
-    papers:
+    list:
       - title: "LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches"
       #  link: "#"
         authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
