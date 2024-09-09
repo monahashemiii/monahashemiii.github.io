@@ -221,14 +221,33 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      title: "LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches"
+     - title: "LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches"
+        link: "https://ieeexplore.ieee.org/document/10420439"
         authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
         conference: IEEE Embedded Systems Letters, 2024
-      title: "FAST-GO: Fast, Accurate, and Scalable Hardware Trojan Detection using Graph Convolutional Networks"
+     - title: "FAST-GO: Fast, Accurate, and Scalable Hardware Trojan Detection using Graph Convolutional Networks"
         link: "https://ieeexplore.ieee.org/abstract/document/10528759"
         authors: A. Imangholi*, M. Hashemi*, A. Momeni, S. Mohammadi, and T.E. Carlson
         conference: International Symposium on Quality Electronic Design (ISQED), 2024
-
+     - title: "Graph Centrality Algorithms for Hardware Trojan Detection at Gate-Level Netlists"
+        authors: M. Hashemi*, A. Momeni*, A. Pashrashid, and S. Mohammadi
+        conference: International Journal of Engineering, 2022
+     - title: "Hardware Trojan Detection Based on Graph Centrality Features (In Persian)"
+        authors: A. Momeni, M. Hashemi, and S. Mohammadi 
+        conference: International Conference on Electrical, Computer and Mechanical Engineering, 2022
+     - title: "Fast and Energy-Efficient CNFET Adders with CDM and Sensitivity-based Device-Circuit Co-Optimization"
+        authors: K. Haghshenas, M. Hashemi, and T. Nikoubin
+        conference: IEEE Transactions on Nanotechnology, 2018
+     - title: "CNTFET Full-Adders for Energy-Efficient Arithmetic Applications"
+        authors: M. Grailoo, M. Hashemi, K. Haghshenas, S. Rezaee, S. Rapolu, and T. Nikoubin
+        conference: International Conference on Computing, Communication and Networking Technologies (ICCCNT), 2015
+     - title: "Design and Implementation of a Heliostat System with Solar Tracker (In Persian)"
+        authors: K. Haghshenas, M. Hashemi
+        conference: International Conference on Emerging Trends in Energy Conservation (ETEC), 2015
+     - title: "SRLL: Improving Security and Reliability with User-Defined Constraint-Aware Logic Locking"
+        authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
+        conference: ACM Journal on Emerging Technologies in Computing Systems, 2024
+        
 skills:
     title: Skills
 
