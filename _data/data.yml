@@ -225,6 +225,10 @@ publications:
       #  link: "#"
         authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
         conference: IEEE Embedded Systems Letters, 2024
+      - title: "FAST-GO: Fast, Accurate, and Scalable Hardware Trojan Detection using Graph Convolutional Networks"
+      #  link: "#"
+        authors: A. Imangholi*, M. Hashemi*, A.Momeni, S. Mohammadi, and T.E. Carlson
+        conference: The 2024 International Symposium on Quality Electronic Design (ISQED), 2024
 
 skills:
     title: Skills
