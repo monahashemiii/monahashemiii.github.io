@@ -214,7 +214,17 @@ certifications:
 #        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-
+publications:
+    title: Publications
+    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+    papers:
+     - title: "LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches"
+        link: "https://ieeexplore.ieee.org/document/10420439"
+        authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
+        conference: IEEE Embedded Systems Letters, 2024
      
         
 skills:
