@@ -221,9 +221,9 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches
       #  link: "#"
-       # authors: Donald E. Knuth
+         authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
       # conference: Addison-Wesley, 1968
 
 skills:
