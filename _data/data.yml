@@ -223,7 +223,7 @@ publications:
     papers:
       - title: LOTUS: A Scalable Framework to Lock Multi-Module Designs with One-Time Key and Self-Destructing Approaches
       #  link: "#"
-         authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
+      #  authors: M. Hashemi, S. Mohammadi, and T.E. Carlson
       # conference: Addison-Wesley, 1968
 
 skills:
