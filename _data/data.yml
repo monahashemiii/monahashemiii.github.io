@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: hashemi.mona@ut.ac.ir
     # phone: 012 345 6789
-    timezone: Singapore (UTC +8)
+    timezone: Tehran (UTC +3:30)
     citizenship: Iran
     linkedin: monahashemi
     #scholar: https://github.com/monahashemiii#:~:text=https%3A//scholar.google.com/citations%3Fuser%3DO56sNyEAAAAJ%26hl%3Den
@@ -29,7 +29,7 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     website: scholar.google.com/citations?user=O56sNyEAAAAJ&hl=en #do not add http://    
-    pdf: https://www.dropbox.com/scl/fi/b9fl0zr5kpr0fy69uc51x/Mona-Hashemi-CV.pdf?rlkey=u5lxovaoy1dul2tys9l3pjhez&dl=0
+    pdf: https://www.dropbox.com/scl/fi/eprpmt32o83exwgcmnces/Mona-Hashemi-CV.pdf?rlkey=gfa42mwgq8dcgs1fm200zpnsk&dl=0
 
     languages:
       title: Languages
@@ -46,14 +46,19 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Secure Hardware Architectures
+        - item: Hardware Security Verification
+        - item: Hardware Counterfeiting
+        - item: Security-Aware Custom Computing
           link:
 
 career-profile:
     title: Career Profile
     summary: |
       I am a postdoctoral researcher at the National University of Singapore (NUS), focusing on hardware security, VLSI design, and dependable computing architectures.
+      
       I hold a Ph.D. in Electrical and Computer Engineering from the University of Tehran, completed in 2024. My doctoral research centered on hardware security and anti-counterfeit design, specifically developing scalable and reliable logic locking techniques to detect and prevent counterfeit hardware.
+      
       During my Ph.D., I was a visiting research scholar at the Computing and Architecture (CompArch) group at NUS, where I gained further experience in secure and efficient computing systems.
       
 education:
@@ -125,7 +130,7 @@ experiences:
             - VLSI Design, Undergraduate Course, 1 Semester
       
 certifications:
-      title: HONORS
+      title: HONORS AND SPECIAL RECOGNITIONS
       list:
         - name: Research Funding
           start: 2023
@@ -136,7 +141,7 @@ certifications:
           #credentialname: Google
           details: |
              
-        - name: Research Scholarship (Granted to only two students per year) #, Department of Electrical and Computer Engineering, University of Tehran)
+        - name: Research Scholarship (Granted to only two students) #, Department of Electrical and Computer Engineering, University of Tehran)
           start: 2019
           #end: 2021
           organization: Ministry of Science, Research, and Technology, Iran
@@ -211,26 +216,32 @@ certifications:
 #   contributions:
 #      - title: Tempo
 #        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"   
+    
+skills:
+    title: Skills
 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#       conference: Addison-Wesley, 1968
-
-#skills:
-#    title: Skills &amp; Proficiency
-
-#    toolset:
-#      - name: Python & Django
-#        level: 98%
+    toolset:
+      - name: VHDL, VerilogHDL, SystemVerilog
+        level: 95%
+      - name: Xilinx (ISE, Vivado, Vivado HLS, SDK), Intel FPGA (Modelsim)
+        level: 95%
+      - name: C, C++, Microsoft Visual Studio pack (VC#, VC++) 
+        level: 90%
+      - name:  Synopsys (Design Compiler, DFT compiler, HSIM, HSPICE)
+        level: 90%         
+      - name:  Cadence (SoC/IC Encounter)
+        level: 80% 
+      - name:  CodeVisionAVR, Altium Designer (PCB), MaxPlus
+        level: 70% 
+      - name: X86 Assembly
+        level: 70% 
+      - name: SQL, Oracle
+        level: 70%
+      - name: MATLAB (M-file, GUI)
+        level: 60%
+      - name: Java
+        level: 50% 
 
 footer: >
     2024
