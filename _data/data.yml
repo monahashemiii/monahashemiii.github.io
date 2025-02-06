@@ -8,12 +8,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Mona Hashemi
-    tagline: Ph.D. Candidate at University of Tehran, Visiting Researcher at National University of Singapore
+    name: Mona Hashemi, PhD
+    tagline: Postdoctoral Researcher at National University of Singapore
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hashemi.mona@ut.ac.ir
+    email: monah(at)nus(dot)edu(dot)sg
     # phone: 012 345 6789
     timezone: Tehran (UTC +3:30)
     citizenship: Iran
