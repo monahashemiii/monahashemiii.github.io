@@ -1,0 +1,238 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Mona Hashemi
+    tagline: Ph.D. Candidate at University of Tehran, Visiting Researcher at National University of Singapore
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: hashemi.mona@ut.ac.ir
+    # phone: 012 345 6789
+    timezone: Singapore (UTC +8)
+    citizenship: Iran
+    linkedin: monahashemi
+    #scholar: https://github.com/monahashemiii#:~:text=https%3A//scholar.google.com/citations%3Fuser%3DO56sNyEAAAAJ%26hl%3Den
+    # xing: alandoe
+    github: monahashemiii
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    stack-overflow: 18590616/mona # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    website: scholar.google.com/citations?user=O56sNyEAAAAJ&hl=en #do not add http://    
+    pdf: https://www.dropbox.com/scl/fi/b9fl0zr5kpr0fy69uc51x/Mona-Hashemi-CV.pdf?rlkey=u5lxovaoy1dul2tys9l3pjhez&dl=0
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Persian
+          level: Native
+
+        - idiom: English
+          level: Upper-Intermediate
+
+        - idiom: French
+          level: Basic
+
+    interests:
+      title: Interests
+      info:
+        - item: Climbing
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am a postdoctoral researcher at the National University of Singapore (NUS), focusing on hardware security, VLSI design, and dependable computing architectures.
+      
+      I hold a Ph.D. in Electrical and Computer Engineering from the University of Tehran, completed in 2024. My doctoral research centered on hardware security and anti-counterfeit design, specifically developing scalable and reliable logic locking techniques to detect and prevent counterfeit hardware.
+      
+      During my Ph.D., I was a visiting research scholar at the Computing and Architecture (CompArch) group at NUS, where I gained further experience in secure and efficient computing systems.
+      
+education:
+    title: Education
+    info:
+      - degree: PhD in Computer Engineering
+        university: University of Tehran, Iran
+        time: 2017 - 2025
+        details: |
+          Major: Computer Architecture
+            - Supervisor: Dr. Siamak Mohammadi
+            - SThesis Title: Detecting and Preventing Counterfeit Hardware by Scalable and Reliable Logic Locking
+      - degree: MSc in Computer Engineering
+        university: Sharif University of Technology, Iran
+        time: 2014 - 2016
+        details: |
+          Major: Computer Architecture
+            - Supervisor: Dr. Shaahin Hessabi
+            - Thesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
+      - degree: BSc in Computer Engineering
+        university: K.N.T.U University of Technology, Iran
+        time: 2008 - 2012
+        details: |
+          Major: Computer Hardware 
+            - Supervisor: Dr. Amir Mousavinia
+            - Thesis Title: Design and implementation of a heliostat system based on a solar tracker
+            
+experiences:
+    title: Academic Experience
+    info:
+      - role: Postdoctoral Researcher
+        time: 2025 - now
+        company: National University of Singapore, Singapore
+        
+      - role: Visiting Researcher
+        time: 2023 - 2024
+        company: National University of Singapore, Singapore
+
+      - role: Remote Researcher
+        time: 2021 - 2023
+        company: National University of Singapore, Singapore
+        
+      - role: Remote Researcher
+        time: 2021 - 2022
+        company: University of California, San Diego, USA
+        
+      - role: Teaching Assistant
+        time: 2019 - 2022
+        company: University of Tehran, Iran
+        details: |
+          Course: 
+            - Hardware Security and Trust, Postgraduate Course, 3 Semesters
+            - Functional Verification, Postgraduate Course, 3 Semesters
+            - Asynchronous Circuit Design, Postgraduate Course, 1 Semester
+
+      - role: Invited Teacher (Lecturer)
+        time: 2021 - 2021
+        company: University of Tehran, Iran
+        details: |
+          Course: 
+            - Microprocessor and Assembly Language, Undergraduate Course, 1 Semester
+            
+      - role: Teaching Assistant
+        time: 2015 - 2016
+        company: Sharif University of Technology, Iran
+        details: |
+          Courses: 
+            - Digital Electronics, Undergraduate Course, 1 Semester
+            - VLSI Design, Undergraduate Course, 1 Semester
+      
+certifications:
+      title: HONORS
+      list:
+        - name: Research Funding
+          start: 2023
+          #end: 2024
+          organization: School of Computing, National University of Singapore, Singapore
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          details: |
+             
+        - name: Research Scholarship (Granted to only two students per year) #, Department of Electrical and Computer Engineering, University of Tehran)
+          start: 2019
+          #end: 2021
+          organization: Ministry of Science, Research, and Technology, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+             
+        - name: Ranked 5th among all M.Sc. students (in Computer Architecture)
+          start: 2016
+          #end: 2016
+          organization: Computer Engineering Department, Sharif University of Technology, Tehran, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+             
+        - name: Ranked 6th among more than 4000 applicants
+          start: 2014
+          #end: 2016
+          organization: Nationwide University Entrance Exam for Graduate Students in Computer Engineering, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+          
+        - name: Ranked 6th among all B.Sc. students
+          start: 2012
+          #end: 
+          organization: Computer Engineering Department, K.N.T.U University of Technology, Tehran, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |      
+          
+        - name: Top 0.5% among more than 150000 applicants
+          start: 2008
+          #end: 
+          organization: Nationwide University Entrance Exam for Undergraduate Students in Mathematics, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |  
+
+        - name: Ranked 1st among all the students in high school
+          start: 2012
+          #end: 
+          #organization: Computer Engineering Department, K.N.T.U University of Technology, Tehran, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |  
+          
+#projects:
+ #   title: Projects
+  #  intro: >
+   #   You can list your side projects in this
+    #  section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+ #     - title: Velocity
+  #      link: "#hook"
+   #     tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
+
+#skills:
+#    title: Skills &amp; Proficiency
+
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
+
+footer: >
+    2024
