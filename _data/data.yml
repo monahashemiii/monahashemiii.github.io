@@ -168,6 +168,15 @@ certifications:
           #credentialname: Github
           details: |
           
+        - name: Ranked 1st among all Computer Science and Engineering appl
+          start: 2013
+          #end: 2016
+          organization: Competitive Recruitment Exam of the Ministry of Energy, Iran
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          details: |
+          
         - name: Ranked 6th among all B.Sc. students
           start: 2012
           #end: 
@@ -195,6 +204,17 @@ certifications:
           #credentialname: Github
           details: |  
           
+certifications:
+      title: INTEREST
+      list:
+        - name: Hardware Security
+          #start: 2023
+          #end: 2024
+          organization: Hardware Security Verification, Reliable VLSI Design, Secure Hardware Architectures, Secure Design for Heterogeneous Systems, Secure Hardware using Reconfigurable Designs, Security using Post-CMOS Approaches, Security-Aware Custom Computing, Security Critical System-on-Chips
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          details: |          
 #projects:
  #   title: Projects
   #  intro: >
