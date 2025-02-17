@@ -205,12 +205,12 @@ certifications:
           details: |  
           
        
-projects:
-   title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#projects:
+#   title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 #    assignments:
  #     - title: Velocity
   #      link: "#hook"
@@ -254,4 +254,4 @@ skills:
         level: 50% 
 
 footer: >
-    2024
+    2025
