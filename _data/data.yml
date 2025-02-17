@@ -204,17 +204,7 @@ certifications:
           #credentialname: Github
           details: |  
           
-certifications:
-      title: INTEREST
-      list:
-        - name: Hardware Security
-          #start: 2023
-          #end: 2024
-          organization: Hardware Security Verification, Reliable VLSI Design, Secure Hardware Architectures, Secure Design for Heterogeneous Systems, Secure Hardware using Reconfigurable Designs, Security using Post-CMOS Approaches, Security-Aware Custom Computing, Security Critical System-on-Chips
-          #credentialid: 111-222
-          #credentialurl: www.google.com
-          #credentialname: Google
-          details: |          
+       
 #projects:
  #   title: Projects
   #  intro: >
