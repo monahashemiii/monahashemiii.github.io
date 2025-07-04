@@ -83,7 +83,7 @@ education:
             - Supervisor: Dr. Shaahin Hessabi
             - Thesis Title: A Scheme for Counterfeit Chip Detection Using Scan Chain
       - degree: BSc in Computer Engineering
-        university: K.N.T.U University of Technology, Iran
+        university: K.N.T. University of Technology, Iran
         time: 2008 - 2012
         details: |
           Major: Computer Hardware 
@@ -184,7 +184,7 @@ certifications:
         - name: Ranked 6th among all B.Sc. students
           start: 2012
           #end: 
-          organization: Computer Engineering Department, K.N.T.U University of Technology, Tehran, Iran
+          organization: Computer Engineering Department, K.N.T. University of Technology, Tehran, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
           #credentialname: Github
@@ -202,7 +202,7 @@ certifications:
         - name: Ranked 1st among all the students in high school
           start: 2012
           #end: 
-          #organization: Computer Engineering Department, K.N.T.U University of Technology, Tehran, Iran
+          #organization: Computer Engineering Department, K.N.T. University of Technology, Tehran, Iran
           #credentialid: 111-222
           #credentialurl: www.github.com
           #credentialname: Github
